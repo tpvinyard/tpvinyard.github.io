@@ -1,4 +1,28 @@
-body {
-  
+#navigationBar {
+  margin: 0;
+  padding: 20px;
+  background-color: #eeeeee;
+  border-bottom: 20px;
+  border-bottom-color: black;
 }
+
+h1 {
+  display: inline;
+  color: white;
+  background-color: #4aaaa5;
+  margin-left: 20%;
+  padding: 20px;
+}
+
+h6 {
+  display: inline;
+  margin-left: 50px;
+}
+
+#about-me {
+  height: 960px;
+  text-align: center;
+  background-color: #eeeeee;
+}
+
   
