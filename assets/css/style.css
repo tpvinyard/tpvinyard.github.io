@@ -132,6 +132,9 @@ button:hover {
 }
 
 footer {
+  bottom: 0;
+  width: 100%;
+  position: fixed;
   border-top: 8px solid #4aaaa5;
   background-color: #666666;
   color: white;

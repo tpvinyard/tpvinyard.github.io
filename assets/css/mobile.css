@@ -152,11 +152,13 @@
       }
 
       footer {
+        bottom: 0;
+        width: 100%;
+        position: fixed;
         height: 20px;
         border-top: 2px solid #4aaaa5;
         background-color: #666666;
         color: white;
-        width: auto;
         font-size: 6px;
         text-align:center;
         padding: 5px;
