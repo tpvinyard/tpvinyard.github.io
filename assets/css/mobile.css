@@ -38,9 +38,10 @@
       }
       
       div.container {
-        min-height: 100%;
+        height: auto;
         width: auto;
         margin: 0 5px;
+        margin-bottom: 20px;
         padding: 5px;
       }
 
@@ -96,6 +97,8 @@
       }
       
       #portfolio {
+        height: 400px;
+        margin-bottom: 30px;
         text-align: left;
         padding: 4px;
         background-color: #ffffff;

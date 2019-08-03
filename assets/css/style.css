@@ -28,9 +28,10 @@ h1 {
 }
 
 div.container {
-  height: 960px;
+  height: auto;
   width: 960px;
   margin: 0 auto;
+  margin-bottom: 100px;
   padding: 40px;
 }
 

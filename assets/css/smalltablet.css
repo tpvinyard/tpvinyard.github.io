@@ -37,9 +37,10 @@
       }
       
       div.container {
-        min-height: 100%;
+        height: auto;
         width: 350px;
         margin: 0 auto;
+        margin-bottom: 60px;
         padding: 10px;
       }
 
